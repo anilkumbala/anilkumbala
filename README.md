@@ -3,7 +3,7 @@
 - 🎓 I'm currently pursuing ** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
 - 💻 I'm looking for **opportunities** in **Data Science and Machine Learning** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
-- 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
+- 🎯 Goal: **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def anil():
