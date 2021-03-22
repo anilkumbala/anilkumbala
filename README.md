@@ -1,6 +1,6 @@
 ## Hey there, I'm Anil Kumbala!
 
-- 🎓 I'm currently pursuing ** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
+- 🎓 I'm currently working on data science domain and pursuing  Part Time** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
 - 💻 I'm looking for **opportunities** in **Data Science and Machine Learning** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal: **Contribute** openly to **Data Science and Machine Learning community**.
