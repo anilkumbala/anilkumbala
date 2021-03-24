@@ -1,14 +1,14 @@
 ## Hey there, I'm Anil Kumbala!
 
-- 🎓 I'm currently working on data science domain and pursuing  Part Time** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
-- 💻 I'm looking for **opportunities** in **Data Science and Machine Learning** domain.
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎓 pursuing  Part Time** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
+- 💻 I'm currently working as a Data Scientist in Ivytel technologies, Bangalore 
+- 💻 always looking and open for collaborations with **opportunities** in **Data Science, Machine Learning and DL**.
 - 🎯 Goal: **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def anil():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML & CSS': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau','NLP']
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Advance', 'ML': 'Advance', 'DL': 'Intermidiate'}
+  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau','NLP']
   cloud_architecture = ['aws sagemaker']
   active_blogger = True
   return ∞
