@@ -1,8 +1,8 @@
 ## Hey there, I'm Anil Kumbala!
 
-- 🎓 pursuing  Part Time** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
+- 🎓 Pursuing  Part Time** Ph.d. in Mechanical Engineering(2018-2022)** from ** Osmania University, Hyderabad**.
 - 💻 I'm currently working as a Data Scientist in Ivytel technologies, Bangalore 
-- 💻 always looking and open for collaborations with **opportunities** in **Data Science, Machine Learning and DL**.
+- 💻 Always looking and open for collaborations with **opportunities** in **Data Science, Machine Learning and DL**.
 - 🎯 Goal: **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
